@@ -6,7 +6,7 @@ This is our code files for Data Analytics!
 ## Install
 1. `py -m venv venv`
 2. `venv/Scripts/activate`
-- If you're getting it from Git:
+- If you're getting it from GitHub:
   - `pip install -r requirements.txt`
 - If you're installing on your own:
   - `pip install ipykernel`
