@@ -3,6 +3,10 @@
 ## Description
 This is our code files for Data Analytics!
 
+### Optional Step (WINDOWS)
+To enable Scripts on Windows systems:
+`Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser`
+
 ## Install
 1. `py -m venv venv`
 2. `venv/Scripts/activate`
