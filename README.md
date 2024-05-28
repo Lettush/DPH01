@@ -6,7 +6,10 @@ This is our code files for Data Analytics!
 ## Install
 1. `py -m venv venv`
 2. `venv/Scripts/activate`
-3. `pip install -r requirements.txt`
+- If you're getting it from Git:
+  - `pip install -r requirements.txt`
+- If you're installing on your own:
+  - `pip install ipykernel`
 
 ## Notebook Setup
 1. Create a notebook (with the .ipynb extension) or access a notebook from the repository.
